@@ -1,0 +1,9 @@
+﻿  main.c
+D:\mangruf\2023\Game\Game\main.c(10,5): warning C4013: 'SetConsole'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\mangruf\2023\Game\Game\main.c(18,9): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\mangruf\2023\Game\Game\main.c(22,15): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+D:\mangruf\2023\Game\Game\main.c(24,26): warning C4047: '==': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+D:\mangruf\2023\Game\Game\main.c(42,26): warning C4047: '==': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+D:\mangruf\2023\Game\Game\main.c(8,11): warning C4047: '초기화 중': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+x64\Debug\slotmachine.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  Game.vcxproj -> D:\mangruf\2023\Game\x64\Debug\Game.exe
